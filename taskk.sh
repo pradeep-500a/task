@@ -4,6 +4,7 @@
 #chmod +x testfile
 #./testfile
 echo "Entering"
+echo "hello all"
 
 read -p "enter name" filename #testfile
 
